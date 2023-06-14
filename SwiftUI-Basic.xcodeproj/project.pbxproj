@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8601A52F2A3A0B25002F5C78 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8601A52E2A3A0B25002F5C78 /* ButtonView.swift */; };
 		860577DA2A38BB27006A772E /* SwiftUI_BasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 860577D92A38BB27006A772E /* SwiftUI_BasicApp.swift */; };
 		860577DC2A38BB27006A772E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 860577DB2A38BB27006A772E /* ContentView.swift */; };
 		860577DE2A38BB29006A772E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 860577DD2A38BB29006A772E /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8601A52E2A3A0B25002F5C78 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		860577D62A38BB27006A772E /* SwiftUI-Basic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Basic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		860577D92A38BB27006A772E /* SwiftUI_BasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BasicApp.swift; sourceTree = "<group>"; };
 		860577DB2A38BB27006A772E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				860577D92A38BB27006A772E /* SwiftUI_BasicApp.swift */,
 				860577DB2A38BB27006A772E /* ContentView.swift */,
 				860577E72A38BC00006A772E /* TextView.swift */,
+				8601A52E2A3A0B25002F5C78 /* ButtonView.swift */,
 				860577DD2A38BB29006A772E /* Assets.xcassets */,
 				860577DF2A38BB29006A772E /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				860577E82A38BC00006A772E /* TextView.swift in Sources */,
 				860577DC2A38BB27006A772E /* ContentView.swift in Sources */,
+				8601A52F2A3A0B25002F5C78 /* ButtonView.swift in Sources */,
 				860577DA2A38BB27006A772E /* SwiftUI_BasicApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
