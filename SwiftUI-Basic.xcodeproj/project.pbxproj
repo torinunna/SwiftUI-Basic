@@ -11,6 +11,7 @@
 		860577DC2A38BB27006A772E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 860577DB2A38BB27006A772E /* ContentView.swift */; };
 		860577DE2A38BB29006A772E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 860577DD2A38BB29006A772E /* Assets.xcassets */; };
 		860577E12A38BB29006A772E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 860577E02A38BB29006A772E /* Preview Assets.xcassets */; };
+		860577E82A38BC00006A772E /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 860577E72A38BC00006A772E /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		860577DB2A38BB27006A772E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		860577DD2A38BB29006A772E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		860577E02A38BB29006A772E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		860577E72A38BC00006A772E /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				860577D92A38BB27006A772E /* SwiftUI_BasicApp.swift */,
 				860577DB2A38BB27006A772E /* ContentView.swift */,
+				860577E72A38BC00006A772E /* TextView.swift */,
 				860577DD2A38BB29006A772E /* Assets.xcassets */,
 				860577DF2A38BB29006A772E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				860577E82A38BC00006A772E /* TextView.swift in Sources */,
 				860577DC2A38BB27006A772E /* ContentView.swift in Sources */,
 				860577DA2A38BB27006A772E /* SwiftUI_BasicApp.swift in Sources */,
 			);
