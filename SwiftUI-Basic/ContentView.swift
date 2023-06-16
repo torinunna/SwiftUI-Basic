@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
+        VStack(alignment: .trailing, spacing: 30.0) {
             ImageView()
             ButtonView()
             TextView()
